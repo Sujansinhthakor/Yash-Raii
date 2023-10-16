@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is is Yash Rai. I am Final year student at VIT Bhopal.
 
 <!--
 **Yash-Raii/Yash-Raii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Yash-Raii&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Raii&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Raii&layout=compact&theme=blueberry&count_private=true&hide_border=true" width="450">
+
+  
